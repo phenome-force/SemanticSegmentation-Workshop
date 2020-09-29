@@ -1,5 +1,6 @@
 # Conducting semantic segmentation on plant hyperspectral images using Python scikit-learn machine learning library
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/phenome-force/SemanticSegmentation-Workshop.git/master)
 
 **Presenter**: [Chenyong Miao](https://www.unl.edu/psi/chenyong-miao)
 
